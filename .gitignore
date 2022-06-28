@@ -37,3 +37,13 @@ nb-configuration.xml
 
 # Local environment
 .env
+/src/main/resources/application.properties
+/src/main/docker/Dockerfile.jvm
+/src/main/docker/Dockerfile.legacy-jar
+/src/main/docker/Dockerfile.native
+/src/main/docker/Dockerfile.native-micro
+/src/main/resources/META-INF/resources/index.html
+/.mvn/wrapper/maven-wrapper.properties
+/.mvn/wrapper/MavenWrapperDownloader.java
+/mvnw
+/mvnw.cmd
